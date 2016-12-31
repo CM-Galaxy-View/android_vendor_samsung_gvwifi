@@ -67,6 +67,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gvwifi/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/samsung/gvwifi/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
     vendor/samsung/gvwifi/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
+	vendor/samsung/gvwifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/gvwifi/proprietary/lib/libsensorlistener.so:system/lib/libsensorlistener.so \
     vendor/samsung/gvwifi/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/samsung/gvwifi/proprietary/lib/libuniplugin.so:system/lib/libuniplugin.so \
