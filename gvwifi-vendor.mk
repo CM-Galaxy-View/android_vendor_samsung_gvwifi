@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gvwifi/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/gvwifi/proprietary/bin/cs:system/bin/cs \
     vendor/samsung/gvwifi/proprietary/bin/exyrngd:system/bin/exyrngd \
+	vendor/samsung/gvwifi/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/gvwifi/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/gvwifi/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon \
     vendor/samsung/gvwifi/proprietary/bin/mfgloader:system/bin/mfgloader \
@@ -61,6 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gvwifi/proprietary/lib/libsensorlistener.so:system/lib/libsensorlistener.so \
     vendor/samsung/gvwifi/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/samsung/gvwifi/proprietary/lib/libuniplugin.so:system/lib/libuniplugin.so \
+    vendor/samsung/gvwifi/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/gvwifi/proprietary/vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt:system/vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt \
     vendor/samsung/gvwifi/proprietary/vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt:system/vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt \
     vendor/samsung/gvwifi/proprietary/vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_EARPIECE.txt:system/vendor/etc/nxp/BargeInDriving/Tx_ControlParams_WIDEBAND_EARPIECE.txt \
