@@ -39,8 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gvwifi/proprietary/bin/exyrngd:system/bin/exyrngd \
     vendor/samsung/gvwifi/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/gvwifi/proprietary/bin/mcDriverDaemon:system/bin/mcDriverDaemon \
-    vendor/samsung/gvwifi/proprietary/bin/mfgloader:system/bin/mfgloader \
-    vendor/samsung/gvwifi/proprietary/bin/wlandutservice:system/bin/wlandutservice \
     vendor/samsung/gvwifi/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
     vendor/samsung/gvwifi/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
     vendor/samsung/gvwifi/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
