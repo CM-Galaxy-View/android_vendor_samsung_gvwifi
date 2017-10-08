@@ -41,20 +41,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gvwifi/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
     vendor/samsung/gvwifi/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
     vendor/samsung/gvwifi/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
-    vendor/samsung/gvwifi/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/gvwifi/proprietary/lib/hw/camera.universal7580.so:system/lib/hw/camera.universal7580.so \
     vendor/samsung/gvwifi/proprietary/lib/hw/gps.universal7580.so:system/lib/hw/gps.universal7580.so \
     vendor/samsung/gvwifi/proprietary/lib/hw/sensors.universal7580.so:system/lib/hw/sensors.universal7580.so \
-    vendor/samsung/gvwifi/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/gvwifi/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/gvwifi/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/samsung/gvwifi/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/gvwifi/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/samsung/gvwifi/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
-    vendor/samsung/gvwifi/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
 	vendor/samsung/gvwifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/gvwifi/proprietary/lib/libsensorlistener.so:system/lib/libsensorlistener.so \
-    vendor/samsung/gvwifi/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/samsung/gvwifi/proprietary/lib/libuniplugin.so:system/lib/libuniplugin.so \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/bcm43455_V0097.0130.hcd:system/vendor/firmware/bcm43455_V0097.0130.hcd \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/fimc_is_fd.bin:system/vendor/firmware/fimc_is_fd.bin \
@@ -62,7 +58,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/setfile_sr261.bin:system/vendor/firmware/setfile_sr261.bin \
     vendor/samsung/gvwifi/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
-    vendor/samsung/gvwifi/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/samsung/gvwifi/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/samsung/gvwifi/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/gvwifi/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
